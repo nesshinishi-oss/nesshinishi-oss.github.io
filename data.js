@@ -2105,7 +2105,7 @@ const SPECIES = {
     catch:29, exp:251, growth:'slow', ability:'speedboost',
     from:'roboton', evoStage:2,
     learn:[[1,'harden'],[1,'tackle'],[10,'thundershock'],[17,'metalclaw'],[24,'chargebeam'],[31,'flashcannon'],[38,'meteormash'],[45,'thunderbolt'],
-      [53,'thunder'],[61,'wildcharge'],[69,'thunderpunch'],[73,'protect']],
+      [53,'thunder'],[61,'wildcharge'],[69,'thunderpunch'],[84,'protect']],
     desc:'ロボットンが しんかした すがた。ロボットの きのうが さらに アップし、かたくなる。',
   },
   giagia: {
